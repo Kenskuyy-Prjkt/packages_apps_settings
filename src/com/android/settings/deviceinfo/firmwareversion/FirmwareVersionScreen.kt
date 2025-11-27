@@ -71,6 +71,7 @@ open class FirmwareVersionScreen : PreferenceScreenMixin, PreferenceSummaryProvi
             +FirmwareVersionDetailPreference()
             +SecurityPatchLevelPreference()
             +MicaVersionPreference()
+            +MicaMaintainerPreference()
             +BasebandVersionPreference()
             +KernelVersionPreference()
             +SimpleBuildNumberPreference()
